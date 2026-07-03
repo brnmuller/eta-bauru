@@ -1,6 +1,6 @@
 ---
-title: Começando nas Artes: Teoria da Cor
-publish: true
+title: "Começando nas Artes: Teoria da Cor"
+publish: false
 ---
 
 # Começando nas Artes: Teoria da Cor

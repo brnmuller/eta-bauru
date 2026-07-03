@@ -1,5 +1,5 @@
 ---
-title: Espaço de Tecnologias e Artes
+title: "Espaço de Tecnologias e Artes"
 publish: true
 ---
 
@@ -9,4 +9,4 @@ Este é o espaço de organização e compartilhamento dos cursos, oficinas e mat
 
 ## Cursos
 
-- [[Cursos/Teoria da Cor]]
+- [[Teoria da Cor]]
