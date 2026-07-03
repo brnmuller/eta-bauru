@@ -5,24 +5,7 @@ faixa etária: "14"
 ano: 2026
 publish: true
 ---
-
-### `index.md`
-
-É a porta de entrada.
-
-O aluno chega nela e encontra:
-
-- apresentação do curso;
-- objetivos;
-- lista das aulas;
-- materiais;
-- referências.
-
-Ela é a página principal do curso.
-
-# {{Título}}
-
-> Pequena descrição do curso.
+> Descubra os fundamentos da aquarela em um curso introdutório voltado para iniciantes. Em quatro encontros práticos serão discutidas as técnicas essenciais desse método de criação em pintura.
 
 ## Informações
 
