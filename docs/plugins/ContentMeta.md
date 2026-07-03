@@ -5,7 +5,7 @@ tags:
   - plugin/component
 image:
 repository: "[quartz-community/content-meta](https://github.com/quartz-community/content-meta)"
-enabled: true
+enabled: false
 required: false
 ---
 
