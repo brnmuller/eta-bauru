@@ -7,6 +7,7 @@ publish: true
 ---
 > Descubra os fundamentos da aquarela em um curso introdutório voltado para iniciantes. Em quatro encontros práticos serão discutidas as técnicas essenciais desse método de criação em pintura.
 
+
 ## Informações
 
 - **Formato:** Curso
