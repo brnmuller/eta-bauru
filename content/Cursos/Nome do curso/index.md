@@ -1,6 +1,6 @@
 ---
 title: Nome do curso
-publish: true
+publish: false
 ---
 ### `index.md`
 
