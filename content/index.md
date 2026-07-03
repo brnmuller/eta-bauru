@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Espaço de Tecnologias e Artes
+publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Espaço de Tecnologias e Artes
+
+Este é o espaço de organização e compartilhamento dos cursos, oficinas e materiais do ETA.
+
+## Cursos
+
+- [[Cursos/Teoria da Cor]]
