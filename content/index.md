@@ -9,4 +9,4 @@ Este é o espaço de organização e compartilhamento dos cursos, oficinas e mat
 
 ## Cursos
 
-- [[Teoria da Cor]]
+- [[Cursos/Nome do curso/index]]
