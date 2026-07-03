@@ -1,9 +1,7 @@
 ---
 title: "Começando nas Artes: Teoria da Cor"
-publish: false
+publish: true
 ---
-
-# Começando nas Artes: Teoria da Cor
 
 Curso introdutório sobre cor, mistura, contraste, harmonia e composição visual.
 
