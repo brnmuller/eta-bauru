@@ -8,7 +8,6 @@ publish: true
 ## Materiais
 ## Referências
 
-
 É a porta de entrada.
 
 O aluno chega nela e encontra:
