@@ -1,2 +1,38 @@
-## Parte 1 - Abertura
-O que é aquarela?
+- Aula 1: Água e Pigmento
+	- O que é aquarela
+	- Egito, manuscritos medievais, iluminuras, renascimento
+	- Como funciona
+	- Dürer
+- Aula 2: Controle de bordas e camadas
+	- A escola inglesa
+	- Turner
+		- Atmosferas, luz, camadas
+	- John Singer Sargent
+		- Pinceladas, reservas, espontaneidade
+	- Molhado sobre seco
+	- Molhado sobre molhado
+	- Veladura
+	- Reservas (?)
+	- Final: Folhas e composição botânica
+- Aula 3: Texturas e linguagem
+	- Impressionismo
+	- Winslow Homer
+	- John Marin
+	- Alvaro Castagnet
+	- Cadernos de viagem
+	- Urban sketchers
+	- Exercícios: texturas
+	- Final: paisagem
+- Aula 4: Planejamento e síntese
+	- Aquarela hoje
+		- Ilustração, concept, quadrinhos, sketchbook, ciência
+	- Beatrix Potter
+	- Charles Burchfield
+	- James Gurney
+	- Brasileiros:
+		- Debret
+		- Thomas Ender
+		- Yoshiya Takaoka
+		- Luiz Dolino
+	- Como continuar estudando
+

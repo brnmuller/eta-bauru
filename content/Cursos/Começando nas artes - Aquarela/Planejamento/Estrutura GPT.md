@@ -1,5 +1,12 @@
 Base do ChatGPT:
 
+|Aula|Competência principal|Projeto final|
+|---|---|---|
+|1|Água e pigmento|Paisagem atmosférica|
+|2|Controle das bordas e camadas|Composição botânica|
+|3|Texturas e gestualidade|Paisagem com texturas|
+|4|Planejamento e síntese|Pintura livre orientada|
+
 # Aula 1 — Água, pigmento e transparência
 
 ## Tema central
