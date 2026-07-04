@@ -7,8 +7,16 @@
 		- Fita
 		- Máscara
 	- Egito, manuscritos medievais, iluminuras, renascimento
-	- Como funciona
+	- Como funciona (demonstração)
+	- Exercícios:
+		- Escala tonal
+		- Degradê contínuo
+		- Mistura de duas cores, máximo possível de tons
+		- Xadrez/sobreposição (veladura)
+		- Círculo cromático
+		- Pintura: Tumba de Nebamun
 	- Dürer
+	- Final: paisagem simples
 - Aula 2: Controle de bordas e camadas
 	- A escola inglesa
 	- Turner
