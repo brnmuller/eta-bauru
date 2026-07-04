@@ -22,6 +22,7 @@
 		- Degradês
 		- Transparência
 		- Mistura de cores
+		- Pui-Mun, p. 152
 - Aula 2: Controle de bordas e camadas
 	- A escola inglesa
 	- Turner
