@@ -15,4 +15,5 @@
 	- Passar pincel molhado nas bordas de um contorno seco
 	- Fazer um contorno com água limpa em torno do desenho quase secando
 - Textura
-- 
+	- Uso de lixa
+	- Uso de cera ou parafina para mascarar áreas
