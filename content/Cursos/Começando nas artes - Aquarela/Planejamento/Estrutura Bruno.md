@@ -14,9 +14,14 @@
 		- Mistura de duas cores, máximo possível de tons
 		- Xadrez/sobreposição (veladura)
 		- Círculo cromático
-		- Pintura: Tumba de Nebamun
+		- Pintura: Flores
+			- Técnica: decalque a lápis
 	- Dürer
+	- Pui-Mun: Tarot
 	- Final: paisagem simples
+		- Degradês
+		- Transparência
+		- Mistura de cores
 - Aula 2: Controle de bordas e camadas
 	- A escola inglesa
 	- Turner
