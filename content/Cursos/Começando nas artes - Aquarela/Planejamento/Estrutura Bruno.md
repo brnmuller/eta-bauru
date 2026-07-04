@@ -1,5 +1,11 @@
 - Aula 1: Água e Pigmento
 	- O que é aquarela
+	- Materiais
+		- Tintas
+		- Pinceis
+		- Papel
+		- Fita
+		- Máscara
 	- Egito, manuscritos medievais, iluminuras, renascimento
 	- Como funciona
 	- Dürer
