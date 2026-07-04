@@ -215,8 +215,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Sesc Bauru: https://www.sescsp.org.br/unidades/bauru/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
