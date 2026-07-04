@@ -6,4 +6,4 @@ Este é o espaço de organização e compartilhamento dos cursos, oficinas e mat
 
 ## Cursos
 
-- [[Cursos/Nome do curso/index|Começando nas artes: Aquarela]]
+- [[Cursos/Começando nas artes - Aquarela/index|Começando nas artes: Aquarela]]
