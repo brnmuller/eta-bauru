@@ -1,0 +1,18 @@
+- Técnicas de úmido sobre úmido
+	- Aplicação e mistura de aguadas de cor
+	- Efeitos espontâneos com úmido-sobre-úmido
+	- Efeitos de úmido-sobre-úmido
+- Lavagem de cores
+	- Adição de tonalidade e dimensão. Depois do trecho pronto, segurar o papel sob água corrente e esfregar com um pincel para lavar as cores. Depois disso, pintar novamente corrigindo valores
+- Esponja
+	- Criando formas de nuvens
+		- Aguada uniforme e deixar secar um pouco. Desenhar nuvens com um pincel com água, e usar uma esponja para sugar a umidade. Passar esponja molhada para suavizar.
+- Raspagem
+	- Uso do estilete
+		- Raspar com a ponta
+		- Delinear com a ponta e raspar por dentro
+- Suavização de bordas
+	- Passar pincel molhado nas bordas de um contorno seco
+	- Fazer um contorno com água limpa em torno do desenho quase secando
+- Textura
+- 
