@@ -14,15 +14,18 @@ publish: true
 - **Público:** 14+
 - **Educador:** Bruno Müller
 
-## Programa
+## Slides
 
-- [[02 - Aulas/Aula 01]]
-- [[02 - Aulas/Aula 02]]
-- [[02 - Aulas/Aula 03]]
-- [[02 - Aulas/Aula 04]]
+- [[aquarela-aula-01.pdf|Começando nas artes: Aquarela, aula 1]]
 
-## Downloads
+## Links interessantes
 
-## Bibliografia
-
-## Créditos
+## Referências
+- [https://francyatelier.com/tudo-sobre-papeis-para-aquarela/](https://francyatelier.com/tudo-sobre-papeis-para-aquarela/)
+- [https://francyatelier.com/tudo-sobre-pinceis-para-aquarela/](https://francyatelier.com/tudo-sobre-pinceis-para-aquarela/)
+- [https://www.youtube.com/watch?v=p1iYqW_A0U0&ab_channel=KristineArt](https://www.youtube.com/watch?v=p1iYqW_A0U0&ab_channel=KristineArt)
+- [https://www.artsy.net/article/artsy-editorial-5-simple-watercolor-techniques-beginners](https://www.artsy.net/article/artsy-editorial-5-simple-watercolor-techniques-beginners)
+- [https://danielsmith.com/tutorials/extra-fine-watercolors/four-basic-watercolor-washes/](https://danielsmith.com/tutorials/extra-fine-watercolors/four-basic-watercolor-washes/)
+- [https://stephenberryart.com/blog/2015/01/cliff-notes-for-zbukvics-mastering.html](https://stephenberryart.com/blog/2015/01/cliff-notes-for-zbukvics-mastering.html)
+- [https://www.youtube.com/watch?v=81w9PBZOmZ8](https://www.youtube.com/watch?v=81w9PBZOmZ8)
+- [https://www.youtube.com/watch?v=zLGBczLgxBM](https://www.youtube.com/watch?v=zLGBczLgxBM)
