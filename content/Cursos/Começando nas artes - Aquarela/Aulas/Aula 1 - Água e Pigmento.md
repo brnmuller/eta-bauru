@@ -37,3 +37,24 @@
 	- Cabo curto, pelo macio
 - Máscaras
 	- Fita crepe e líquido de mascarar
+## Artistas
+- Albrech Dürer
+- J. M. W. Turner
+- Marie Spartali Stillman
+- Winslow Homer
+- John Singer Sargent
+- Rebecca Guay
+- Joseph Zbukvic
+- Stephanie Pui-Mun Law
+- Alvaro Castagnet
+## Prática: Técnicas fundamentais
+- Aguada
+	- Prenda o papel em uma prancheta, usando fita. Deixe a superfície levemente inclinada.
+	- Com um pincel chato e largo, molhe o papel com água limpa.
+	- Carregue o pincel com tinta e água, passando ele horizontalmente no topo do papel.
+	- Antes que a primeira pincelada seque, passe uma segunda sobrepondo levemente a anterior.
+	- Faça a aguada toda sem voltar ao começo; corrija eventuais variações depois da pintura seca.
+- Aguada em degradê
+- Aguada manchada
+- Veladura
+

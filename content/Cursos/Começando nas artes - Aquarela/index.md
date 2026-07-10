@@ -10,7 +10,7 @@ publish: true
 ## Informações
 
 - **Formato:** Curso
-- **Carga horária:** 12h (4 aulas de 3h)
+- **Carga horária:** 12h
 - **Público:** 14+
 - **Educador:** Bruno Müller
 
