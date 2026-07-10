@@ -1,1 +1,0 @@
-![[aquarela-aula-01.pdf|Começando nas artes: Aquarela, aula 1]]
