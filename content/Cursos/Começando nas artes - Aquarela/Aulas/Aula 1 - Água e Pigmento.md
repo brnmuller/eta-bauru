@@ -57,4 +57,7 @@
 - Aguada em degradê
 - Aguada manchada
 - Veladura
+- ## Prática: pintura
+- Como exercício, dei desenhos variados para serem decalcados e pintados usando as técnicas que aprendemos na aula.
+- 
 
